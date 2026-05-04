@@ -1,0 +1,9 @@
+Student_ID,Name,Math,Science,English,Attendance,Assignments,Average,Performance
+1,Asha,85,78,92,88,80,85.0,Topper
+2,Ravi,60,55,65,70,60,60.0,Average
+3,John,90,88,85,95,90,87.66666666666667,Topper
+4,Meena,45,50,40,60,50,45.0,Weak
+5,Arjun,72,68,70,80,75,70.0,Average
+6,Priya,95,92,94,98,95,93.66666666666667,Topper
+7,Kiran,30,35,25,50,40,30.0,Weak
+8,Divya,88,85,90,92,88,87.66666666666667,Topper
